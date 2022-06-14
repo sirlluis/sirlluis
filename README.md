@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sirlluis
 - 👀 I’m interested in machine learning, IA, data science and physics
-- 🌱 I’m currently learning python and web developmen
-- 💞️ I’m looking to collaborate on my girlfriend
+- 🌱 I’m currently learning python and web development
+- 💞️ I’m looking to collaborate on my girlfriend Nashely
 - 📫 How to reach me: gerardo_archundia@hotmail.com
 
 <!---
