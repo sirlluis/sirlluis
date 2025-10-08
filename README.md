@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sirlluis
 - 👀 I’m interested in machine learning, IA, data science and physics
 - 🌱 I’m currently learning python and web development
-- 📫 How to reach me: luisgra@tuto.io
+- 📫 How to reach me: luisgra@tuta.io
 
 <!---
 sirlluis/sirlluis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
